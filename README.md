@@ -12,6 +12,8 @@
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/deviprasad-shetty-4bba49313) | [![Website](https://img.shields.io/badge/Website-indigo?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com/) | [![My Portfolio](https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/DeviprasadShetty9833/My_Portfolio)  |                      
 |---|---|---|
 
+---
+
 # Hosting a website on GitHub using GitHub Pages:
 
 ```html
@@ -52,7 +54,9 @@
 
 Your website is now live and accessible via the provided URL. You can also configure a custom domain if desired within the GitHub Pages settings. 
 
-[1] https://www.youtube.com/watch?v=e5AwNU3Y2es
-[2] https://www.youtube.com/watch?v=ZwG9jwit2Ho
-[3] https://www.geeksforgeeks.org/git/how-to-host-a-website-on-github-for-free/
+### 🔗 Links & References:
+- [1] https://www.youtube.com/watch?v=e5AwNU3Y2es
+- [2] https://www.youtube.com/watch?v=ZwG9jwit2Ho
+- [3] https://www.geeksforgeeks.org/git/how-to-host-a-website-on-github-for-free/
 
+---
