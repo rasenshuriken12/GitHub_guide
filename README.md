@@ -3,7 +3,6 @@
 To host a website on GitHub using GitHub Pages, follow these steps:
 
 ```html
-• Create a GitHub Account: If you do not already have one, create a free account on GitHub. 
 • Create a New Repository: 
 	• Navigate to your GitHub dashboard and click the "New" button to create a new repository. 
 	• For a personal or organization site: Name the repository exactly your-username.github.io (replace your-username with your actual GitHub username) or your-organization.github.io. 
@@ -31,13 +30,13 @@ To host a website on GitHub using GitHub Pages, follow these steps:
 	• Click Save. 
 ```
 
-
+```html
 • Access Your Website: 
-
 	- GitHub Pages will now build and deploy your website. This process may take a few minutes. 
 	- Once deployed, the URL for your website will be displayed in the "Pages" section of your repository settings. 
 	- For a personal or organization site, the URL will be your-username.github.io. 
 	- For a project site, the URL will be your-username.github.io/repository-name. 
+```
 
 Your website is now live and accessible via the provided URL. You can also configure a custom domain if desired within the GitHub Pages settings. 
 
