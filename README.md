@@ -33,6 +33,7 @@ To host a website on GitHub using GitHub Pages, follow these steps:
 
 
 • Access Your Website: 
+
 	- GitHub Pages will now build and deploy your website. This process may take a few minutes. 
 	- Once deployed, the URL for your website will be displayed in the "Pages" section of your repository settings. 
 	- For a personal or organization site, the URL will be your-username.github.io. 
